@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30048#The-Contemporary-Review-Volume-36-September-1879
 gutenberg_bookshelf: The Contemporary Review
 gutenberg_issued: '2009-09-20'
 gutenberg_type: Text
